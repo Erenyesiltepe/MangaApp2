@@ -172,11 +172,14 @@ val manga: Manga? = intent.getParcelableExtra("manga")
 ### Usage
 Provide instructions on how to use the app.
 
-### Contributing
-We welcome contributions! Please follow these guidelines to contribute:
+1. Enter the app and click one of the mangas to view episodes
 
-## Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes and commit them (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Create a new Pull Request.
+![alt text](images/img3.jpg)
+
+2. Click one of the episodes of that manga to view pages
+
+![alt text](images/img2.jpg)
+
+3. You can read the episode on this page. Each page can be zoomed in and out.
+
+![alt text](images/img1.jpg)
